@@ -15,7 +15,7 @@ The network consists of:
 - 4 PCs (2 in each department)
 - 2 Printers (1 in each department)
 
-![Network Topology](screenshots/01-network-topology.png)
+![Network Topology](01-network-topology.png)
 
 ## IP Addressing
 
@@ -36,15 +36,17 @@ The given network address is `192.168.40.0`, divided into two subnets using a `/
 
 ### Accounts Department IP Configuration
 
-![Accounts IP Configuration](screenshots/02-accounts-ip-config.png)
+![Accounts IP Configuration](02-accounts-ip-config.png)
 
 ### Delivery Department IP Configuration
 
-![Delivery IP Configuration](screenshots/03-delivery-ip-config.png)
+![Delivery IP Configuration](03-delivery-ip-config.png)
+
 
 ### Router Interface Configuration
 
-![Router Interfaces](screenshots/04-router-interfaces.png)
+![Router Interfaces](04-router-interfaces.png)
+
 
 ## Connectivity Testing
 
@@ -52,11 +54,11 @@ Connectivity was tested using the `ping` command from Delivery PCs to Accounts P
 
 ### Delivery PC2 to Accounts PCs
 
-![Delivery to Accounts Ping](screenshots/05-delivery-to-accounts-ping.png)
+![Delivery to Accounts Ping](05-delivery-to-accounts-ping.png)
 
 ### Delivery PC3 to Accounts PCs
 
-![Connectivity Verification](screenshots/06-connectivity-verification.png)
+![Connectivity Verification](06-connectivity-verification.png)
 
 ## Result
 
